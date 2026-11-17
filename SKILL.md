@@ -1,30 +1,12 @@
----
-name: social-science-academic-writing
-description: Improve or plan scholarly writing in social sciences, International Relations, and Political Science using rhetorical functions, careful evidence handling, and an original phrase library.
----
+## Academic Vocabulary and Sentence Structure
 
-# Social Science Academic Writing Skill
-
-## When to use
-Use for drafting, revising, or planning research introductions, literature reviews, theoretical frameworks, methods, analysis, and conclusions in social sciences, International Relations, and Political Science.
-
-## Workflow
-1. Identify the genre, section, intended audience, thesis, and supplied evidence.
-2. Consult `references/academic-phrases.md` for rhetorical functions and original examples.
-3. Identify the paragraph's purpose (context, gap, argument, comparison, method, interpretation, limitation, or conclusion).
-4. Choose at most one or two appropriate expressions per paragraph; never force a phrase.
-5. Preserve the author's substantive position, qualifications, dates, and citations.
-6. Distinguish evidence, interpretation, and unresolved questions; do not invent sources, data, quotations, or findings.
-7. Use cautious causal language where evidence does not establish causation.
-8. Return revised text and a short note explaining substantive writing changes; flag claims requiring evidence.
-
-## Domain conventions
-- Define contested concepts rather than treating them as settled.
-- Distinguish normative, empirical, and theoretical claims.
-- Attribute contested political interpretations and represent credible perspectives fairly.
-- Avoid unnecessary jargon and overstatement.
-- Do not fabricate literature gaps or scholarly consensus.
-
-## Reference
-Read `references/academic-phrases.md` before revising.
-
+1. Replace informal or vague expressions with precise academic terminology when appropriate.
+2. Prefer established terminology used in Social Sciences, International Relations, and Political Science.
+3. Improve sentence structure by clarifying relationships between concepts, arguments, and evidence.
+4. Use transitions such as 'however', 'furthermore', and 'consequently' only when they accurately reflect the logical relationship.
+5. Vary sentence length naturally while maintaining readability.
+6. Avoid unnecessary jargon, inflated vocabulary, and overly complex sentences.
+7. Preserve the author's original meaning, level of certainty, and analytical claims.
+8. Do not introduce new theoretical concepts, causal claims, evidence, or references unless explicitly requested and appropriately supported.
+9. Maintain consistent terminology throughout the paragraph.
+10. Prioritize clarity, precision, coherence, and concision over stylistic complexity.
